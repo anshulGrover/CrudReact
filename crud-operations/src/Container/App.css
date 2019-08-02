@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App button{
+  padding: 10px;
+  font: inherit;
+  display: block; 
+  margin-left:85px;
+  cursor: pointer;
+}
+.App button.Green{
+  background-color:rgb(59, 228, 59);
+}
+.App button.Cart{
+  background-color: brown;
+  
+  width:112px;
+  margin-top: 20px;
+  
+}

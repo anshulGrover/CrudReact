@@ -1,0 +1,12 @@
+.Cart{
+    width:30%;
+    display: block;
+    background-color: floralwhite;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    text-align: center;
+    position: fixed;
+    top:0px;
+    right:0px;
+}

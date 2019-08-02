@@ -1,0 +1,29 @@
+.AddProduct{
+    width:60%;
+    display: block;
+    margin:20px;
+    margin-left: 150px;
+    background-color: floralwhite;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    text-align: center;
+    position: fixed;
+    top:130px;
+    right:130px;
+   
+}
+.AddProduct input[type="text"]{
+    display: block;
+    height:30px;
+    width: 80%;
+    margin: 20px;
+}
+.AddProduct button{
+    display: inline-block;
+position:absolute;
+background-color: greenyellow;
+width: 100px;
+right:20px;
+bottom: 20px;
+}
